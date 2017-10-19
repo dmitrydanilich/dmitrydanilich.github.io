@@ -1,10 +1,10 @@
 name: "Gereksiz"
-highlighter: pygments
+highlighter: rouge
 permalink: :title
 exclude: [README.md, LICENSE, Makefile]
 baseurl: '/gereksiz'
 
 # Information for the Atom feed
-gereksiz:
-   author: "John Doe"
-   email: "john.doe@mail.sexy"
+dmitrydanilich:
+   author: "Dmitry Danilich"
+   email: "danilichdim@gmail.com"
